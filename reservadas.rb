@@ -1,6 +1,6 @@
 
 #palavras reservadas Ruby
-s = <<FIM
+
 alias 
 and 
 BEGIN 
@@ -31,5 +31,3 @@ until
 when 
 while
 yield
-FIM
-puts s
