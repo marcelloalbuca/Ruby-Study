@@ -1,3 +1,3 @@
 puts "Digite o nome do restaurante: "
-nome = gets
-print "Nome do restaurante: " + nome
+nome = gets.capitalize
+print "Nome do restaurante: #{nome}"
